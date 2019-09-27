@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51d694cc-43aa-49ce-a8c7-45207b4c85d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../9/hw9/.idea/hw9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9/hw9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9/hw9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9/hw9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/JTanks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Bullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/CannonBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/GameConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/GameLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Gun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/MachineGunBullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Tank$KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Tank$MouseHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/out/production/JTanks/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/bodies/body1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/bullets/cannonBullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/bullets/machineGunBullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/guns/cannon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/res/images/tanks/guns/machineGun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Bullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/CannonBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/GameConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/GameFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/GameLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Gun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/MachineGunBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jtank/JTanks-master/src/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/MusicPlayer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/MusicCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/out/production/MusicPlayer/MusicPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/MusicCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MusicPlayer/src/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paint.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/paint.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/paint.css" />
+        <option value="$PROJECT_DIR$/paint.html" />
+        <option value="$PROJECT_DIR$/paint.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw10" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEACHER" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d694cc-43aa-49ce-a8c7-45207b4c85d3" name="Default Changelist" comment="" />
+      <created>1568871622126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568871622126</updated>
+      <workItem from="1568871623639" duration="10058000" />
+      <workItem from="1568883037131" duration="2476000" />
+      <workItem from="1568899851241" duration="2000" />
+      <workItem from="1568899856666" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12537000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10631" selection-start-line="2" selection-start-column="10631" selection-end-line="2" selection-end-column="10631" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/paint.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    border: none;
+    outline: none;
+    background-color: #5a6268;
+    padding: 40px;
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+#stage{
+    background-color: white;
+    border-radius: 6px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    margin: auto;
+    display: block;
+    cursor: url("./cursor.png"), crosshair;
+}
+
+
+#colors{
+    list-style: none;
+    text-align: center;
+    margin-top: 40px;
+}
+#colors li{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 5px;
+    border: solid 5px transparent;
+}
+#colors li.red{
+    background-color: red;
+}
+#colors li.green{
+    background-color: green;
+}
+#colors li.yellow{
+    background-color: yellow;
+}
+#colors li.active{
+    border: solid 5px white;
+}
+
+.new-color{
+    text-align: center;
+}
+.new-color #new-color{
+    background-color: green;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+.new-color .new-color-box{
+    background-color: white;
+    width: 350px;
+    margin: auto;
+    padding: 20px 20px 50px 20px;
+    position: relative;
+    display: none;
+}
+.new-color .new-color-box span#live-color{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: inline-block;
+    float: left;
+}
+.new-color .new-color-box section{
+    float: right;
+}
+.new-color .new-color-box section label {
+    display: block;
+    text-align: right;
+}
+
+#add-color{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    border: none;
+    padding: 10px;
+    color: white;
+}
+
+#cl{
+    background-color: green;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+
+#clear{
+    background-color: green;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+#circle{
+    background-color: green;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Drawing Application</title>
+    <link rel="stylesheet" href="./paint.css">
+</head>
+<body>
+
+<canvas id="stage" width="600" height="400"></canvas>
+
+<ul id="colors">
+    <li class="red active"></li>
+    <li class="green"></li>
+    <li class="yellow"></li>
+</ul>
+<div class="new-color">
+    <button id="cl">Eraser</button>
+    <button id="clear">Clear</button>
+    <button id="circle">Circle</button>
+    <button id="new-color">New Color</button>
+    <div class="new-color-box">
+        <span id="live-color"></span>
+        <section>
+            <label>
+                Red
+                <input type="range" id="r" min="0" max="255" value="0">
+            </label>
+            <label>
+                Green
+                <input type="range" id="g" min="0" max="255" value="0">
+            </label>
+            <label>
+                Blue
+                <input type="range" id="b" min="0" max="255" value="0">
+            </label>
+        </section>
+        <div class="clearfix"></div>
+        <button id="add-color">Add Color</button>
+    </div>
+</div>
+<script src="./jquery-1.12.4.min.js"></script>
+<script src="./paint.js"></script>
+</body>
+</html>
